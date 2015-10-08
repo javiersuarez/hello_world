@@ -9,7 +9,7 @@ public class Hola_mundo {
 	
 	public static void main (String args[]) {
 		System.out.println ("*************************************************");
-		System.out.println ("** Hola mundo, soy el primer programa en Java **");
+		System.out.println ("** Bonjour monde!, soy el primer programa en Java **");
 		System.out.println ("*************************************************");
 		System.out.println (" |||||");
 		System.out.println ("0/ x x \\0");
