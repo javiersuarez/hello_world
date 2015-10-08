@@ -8,9 +8,9 @@
 public class Hola_mundo {
 	
 	public static void main (String args[]) {
-		System.out.println ("*************************************************");
-		System.out.println ("** Hola mundo, soy el primer programa en Java **");
-		System.out.println ("*************************************************");
+		System.out.println ("*******************************************************************************************************");
+		System.out.println ("** Hello World: To forgive all is as inhuman as to forgive none (Seneca). Fortunately we have GIT **");
+		System.out.println ("*******************************************************************************************************");
 		System.out.println (" |||||");
 		System.out.println ("0/ x x \\0");
 		System.out.println (" | o |");
